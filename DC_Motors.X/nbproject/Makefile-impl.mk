@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=UARTConfig_Chipkit.X
+PROJECTNAME=DC_Motors.X
 
 # Active Configuration
 DEFAULTCONF=default
