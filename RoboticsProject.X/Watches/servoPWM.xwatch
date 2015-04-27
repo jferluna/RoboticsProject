@@ -1,0 +1,12 @@
+MPLAB X Watch List: 111C88EF-7DE7-4f63-96F8-D54C51A6C4DB
+servoChannel,
+range,
+data,
+*data,
+U2STA,
+U2BRG,
+U2MODE,
+IEC1,
+IFS1,
+IPC8,
+U2TXREG,
