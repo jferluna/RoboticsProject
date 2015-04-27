@@ -56,7 +56,7 @@ int main( int argc, char** argv ) {
 
 				/// Load image and template
 				img = imgOriginal;
-				templ = imread("C:\\Users\\AliciaGpe\\Desktop\\flama.png", 1 );
+				templ = imread("flama.jpg", 1 );
 
 				/// Create windows
 				namedWindow( image_window, CV_WINDOW_AUTOSIZE );
